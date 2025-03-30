@@ -1,0 +1,12 @@
+Company : Zitro India, Bangalore
+Projects : Link Series , Wild Savage
+Role: Senior Programmer  
+Tech Stack: Godot, Python,GitKaren,Bitbucket, JIIRA
+
+Overview : A slot game is a type of casino game that typically involves spinning reels with various symbols. The player places a bet, spins the reels, and hopes that the symbols align in a way that results in a win.
+Some notable slot game series from Zitro include:
+
+Link King: Known for its progressive jackpots and exciting bonus features, this game has gained significant popularity in casinos worldwide.
+Bingo Spin: A blend of bingo and slot mechanics that provides players with a unique experience.
+Dragon's Land: A game with mystical and fantasy themes, offering immersive gameplay and rich graphics.
+

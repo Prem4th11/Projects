@@ -1,0 +1,21 @@
+Company: Nukebox Studios, Bangalore
+Project Name : Room Flip
+Role : Junior Unity|Game Developer  
+Tech Stack: Unity, C#, Git, BitBucket, JIIRA, Slack
+
+Description : Love Home Design Makeover games? Want to decorate and remodel property homes? Welcome to Room Flip – become the star of a sassy one-of-a-kind interior decorating reality TV show game.
+
+GAME FEATURES:
+- New Room: Visit New Orleans to flip an old clinic into a boutique pet grooming salon!
+- OUTFITS: Players can equip new OUTFITS for their Avatars.
+- 26 unique rooms to give wings to your Home Design Makeover hobby.
+- 150+ stunning male & female Avatar customizations
+- No two Design Homes are alike – tropical Hawaiian rooftop; ski chalet; Moroccan courtyard; she-shed; an underwater lounge; desert glamping tents; alfresco café, gothic bedroom; mansion & garden apart from the usual kitchen/ fitness/ bathroom, dining room property
+- Exclusive & Exotic locations – Morocco; Switzerland; Ibiza; Venice & Tuscany in Italy, Dubai; Botswana in South Africa; Carcassonne in France
+- Revamp, decorate and flip various covet client property with a variety of modern luxe furniture, flooring, paintings, and decor choices
+- 150+ stunning male & female Avatar customizations
+- Intriguing storyline with an incredible mix of quirky characters, clients, brothers & sims
+- Fabulous interior design styles: scandinavian; mid-century modern; art deco; boho; nordic; shabby chic; eclectic; mediterranean; retro diner; gothic; french countrystyle; victorian; ultra modern; farmhouse; minimalist; japandi
+- 1710 Exciting matching tiles levels
+- 200+ items in the Treasure Chest & Boosters to easily break tiles
+- Fun events like Claw Carnival, Cat-ch Me if You Can with fluffy cat & Key Streak.
