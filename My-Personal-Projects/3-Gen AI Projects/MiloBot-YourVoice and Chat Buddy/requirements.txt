@@ -1,0 +1,6 @@
+gradio
+pyttsx3
+SpeechRecognition
+pyaudio
+
+Note : pyaudio is tricky to install on Linux/Spaces. Hugging Face might not support microphone/audio input live in hosted environment. So may remove real-time microphone features unless it's only for local testing.

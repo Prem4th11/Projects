@@ -1,0 +1,79 @@
+{
+  "emotions": {
+    "sad": "I'm really sorry you're feeling this way. You're not alone. I'm always here to talk.",
+    "happy": "I'm glad to hear that! What's making you happy today?",
+    "angry": "Take a moment to breathe. I'm here if you want to talk it out.",
+    "anxious": "It's okay to feel anxious. Try focusing on your breath. Want to do a calming exercise together?"
+  },
+  "weather": {
+    "today": "Today is {date}. Hope the weather is kind to you!",
+    "tomorrow": "Tomorrow looks bright and full of possibilities!",
+    "yesterday": "Yesterday is behind us. Let's focus on today and make it great!"
+  },
+  "greetings": {
+    "hi": "Hey! I’m MiloBot. How can I assist you today?",
+    "hello": "Hi there! MiloBot here, ready to chat!",
+    "good morning": "Good morning! Wishing you a great day ahead",
+    "good night": "Good night! Sleep well and sweet dreams"
+  },
+  "jokes": [
+    "Why don't scientists trust atoms? Because they make up everything!",
+    "Why did the scarecrow win an award? Because he was outstanding in his field!",
+    "Why don’t skeletons fight each other? They don’t have the guts.",
+    "Parallel lines have so much in common… it’s a shame they’ll never meet."
+  ],
+  "motivation": [
+    "Keep going, you're doing great!",
+    "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+    "Every day is a fresh start. Keep pushing forward!",
+    "Believe you can and you're halfway there."
+  ],
+  "fun_facts": [
+    "Octopuses have three hearts and blue blood.",
+    "Bananas are berries, but strawberries are not.",
+    "Honey never spoils. Archaeologists found edible honey in ancient tombs!"
+  ],
+  "math_facts": [
+    "Zero is the only number that can't be represented in Roman numerals.",
+    "The number π (pi) has been calculated to over 31 trillion digits!",
+    "The Fibonacci sequence is found in nature, like in sunflower seeds and pinecones."
+  ],
+  "science_facts": [
+    "Water can boil and freeze at the same time in a vacuum (triple point).",
+    "Your body has more bacterial cells than human cells.",
+    "Light from the Sun takes 8 minutes and 20 seconds to reach Earth."
+  ],
+  "general_knowledge": [
+    "The Eiffel Tower can grow taller in the summer due to heat expansion.",
+    "The Great Wall of China is over 13,000 miles long.",
+    "Shakespeare invented over 1,700 words."
+  ],
+  "countries": {
+    "usa": {
+      "capital": "Washington, D.C.",
+      "president": "Donald Trump"
+    },
+    "india": {
+      "capital": "New Delhi",
+      "president": "Droupadi Murmu"
+    },
+    "france": {
+      "capital": "Paris",
+      "president": "Emmanuel Macron"
+    },
+    "germany": {
+      "capital": "Berlin",
+      "president": "Frank-Walter Steinmeier"
+    }
+  },
+  "it_industries": [
+    "Google",
+    "Microsoft",
+    "Apple",
+    "Amazon",
+    "Facebook",
+    "Infosys",
+    "TCS",
+    "Accenture"
+  ]
+}
