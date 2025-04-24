@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20b85ba9323766144a9608500b31cdaa, type: 3}
+  m_Name: GameAudioClips
+  m_EditorClassIdentifier: 
+  tapCorrect: {fileID: 8300000, guid: 9453a60145109684e8cd0e150591e8e4, type: 3}
+  tapWrong: {fileID: 8300000, guid: 349ad1226d76b01438c431f272272fa8, type: 3}
+  comboBonus: {fileID: 8300000, guid: 205b2b153227f294e8337ca3bcdd39c2, type: 3}
+  perfectTiming: {fileID: 8300000, guid: 7722110b31ebc4a418b43f7fc774f718, type: 3}
+  gameOver: {fileID: 8300000, guid: ac934b0e0eba65644b34f7a73dc58aab, type: 3}
