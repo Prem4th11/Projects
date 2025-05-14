@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Employee Management</title>
+</head>
+<body>
+  <h2>FastAPI Employee Manager</h2>
+
+  <label>ID:</label><input type="number" id="empId"><br>
+  <label>Name:</label><input type="text" id="empName"><br>
+  <label>Department:</label><input type="text" id="empDept"><br>
+  <label>Salary:</label><input type="number" id="empSalary"><br>
+
+  <button onclick="addEmployee()">Add</button>
+  <button onclick="updateEmployee()">Update</button>
+  <hr>
+
+  <button onclick="loadEmployees()">Load All Employees</button>
+
+  <ul id="empList"></ul>
+
+  <script>
+    const BASE_URL = "http://127.0.0.1:8000";
+
+    async function loadEmployees() {
+      const res = await fetch(`${BASE_URL}/employees`);
+      const data = await res.json();
+      const ul = document.getElementById("empList");
+      ul.innerHTML = "";
+
+      data.forEach(emp => {
+        const li = document.createElement("li");
+        li.innerHTML = `
+          ${emp.id} - ${emp.name} (${emp.department}) - ₹${emp.salary}
+          <button onclick="fillForm(${emp.id}, '${emp.name}', '${emp.department}', ${emp.salary})">Edit</button>
+          <button onclick="deleteEmployee(${emp.id})">Delete</button>
+        `;
+        ul.appendChild(li);
+      });
+    }
+
+    async function addEmployee() {
+      const id = parseInt(document.getElementById("empId").value);
+      const name = document.getElementById("empName").value;
+      const department = document.getElementById("empDept").value;
+      const salary = parseFloat(document.getElementById("empSalary").value);
+
+      const res = await fetch(`${BASE_URL}/employees`, {
+        method: "POST",
+        headers: {"Content-Type": "application/json"},
+        body: JSON.stringify({id, name, department, salary})
+      });
+
+      const result = await res.json();
+      alert(result.message);
+      loadEmployees();
+    }
+
+    async function deleteEmployee(id) {
+      const res = await fetch(`${BASE_URL}/employees/${id}`, { method: "DELETE" });
+      const result = await res.json();
+      alert(result.message);
+      loadEmployees();
+    }
+
+    function fillForm(id, name, dept, salary) {
+      document.getElementById("empId").value = id;
+      document.getElementById("empName").value = name;
+      document.getElementById("empDept").value = dept;
+      document.getElementById("empSalary").value = salary;
+    }
+
+    async function updateEmployee() {
+      const id = parseInt(document.getElementById("empId").value);
+      const name = document.getElementById("empName").value;
+      const department = document.getElementById("empDept").value;
+      const salary = parseFloat(document.getElementById("empSalary").value);
+
+      const res = await fetch(`${BASE_URL}/employees/${id}`, {
+        method: "PUT",
+        headers: {"Content-Type": "application/json"},
+        body: JSON.stringify({id, name, department, salary})
+      });
+
+      const result = await res.json();
+      alert(result.message);
+      loadEmployees();
+    }
+  </script>
+</body>
+</html>
