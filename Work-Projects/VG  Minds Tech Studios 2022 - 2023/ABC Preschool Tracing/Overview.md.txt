@@ -1,0 +1,6 @@
+Company: VGMinds TechStudios
+Project Name : ABC Preschool Kids Tracing
+Role : Senior Unity|Game Developer  (Module Lead)
+Tech Stack: Unity, C#, Git, BitBucket, JIIRA, Slack ,Trello,Firebase,
+
+Description : Welcome to the Ultimate Kids Learning Adventure.ABC Preschool Kids Tracing game is a world class learning game for children to learn more about Alphabets and Numbers

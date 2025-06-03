@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2776c8465ab9c5b49965dca2a15b2f32, type: 3}
+  m_Name: AudioData
+  m_EditorClassIdentifier: 
+  audios:
+  - audioName: 
+    audioClip: {fileID: 8300000, guid: ee68c18196b29744790da274af7761b9, type: 3}
+    isBackgroundMusic: 1
+  - audioName: freespinbg
+    audioClip: {fileID: 8300000, guid: 6d49ea9b70ca60248bc066d13516485d, type: 3}
+    isBackgroundMusic: 0
+  - audioName: bonuswin
+    audioClip: {fileID: 8300000, guid: d73a75286380b8f47b061a4b0cd39226, type: 3}
+    isBackgroundMusic: 0
+  - audioName: reelstop
+    audioClip: {fileID: 8300000, guid: 36506fb431731e7419985035362b5041, type: 3}
+    isBackgroundMusic: 0
+  - audioName: reelspin
+    audioClip: {fileID: 8300000, guid: abbca9437943ebb45952f20e251072bf, type: 3}
+    isBackgroundMusic: 0
+  - audioName: click
+    audioClip: {fileID: 8300000, guid: 0ba7f4fcf2de0e44d9c14cd138491617, type: 3}
+    isBackgroundMusic: 0

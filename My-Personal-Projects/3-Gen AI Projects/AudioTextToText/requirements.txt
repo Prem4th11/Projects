@@ -1,0 +1,6 @@
+#dependencies
+gradio
+transformers
+torch
+torchaudio
+soundfile

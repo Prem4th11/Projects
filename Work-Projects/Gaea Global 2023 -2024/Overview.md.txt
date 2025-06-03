@@ -1,0 +1,12 @@
+Company: Gaea Global Technologies,Bangalore
+Project Name : Synkrato
+Role : Senior Unity Developer  
+Tech Stack: Unity, C# , ML , Plastic , Python, Git, BitBucket, JJIRA
+
+Overview : Synkrato is the world’s first Warehouse Optimization System (WOS) — powered by AI and Digital Twins.
+
+Synkrato is a pioneering Warehouse Optimization System (WOS) that integrates artificial intelligence (AI) and digital twin technology to enhance logistics and warehouse operations. By creating a virtual replica of a warehouse, known as a digital twin, Synkrato enables businesses to simulate, analyze, and optimize various aspects of their operations. This approach allows for testing different scenarios and strategies without disrupting actual workflows, leading to improved efficiency and cost savings.
+A key feature of Synkrato is its AI-driven slotting engine, which, when connected to the digital twin, provides real-time recommendations for inventory placement and movement within the warehouse. This integration helps maximize space utilization, reduce travel times for picking and putaway tasks, and streamline overall operations.
+Additionally, Synkrato offers Trinity, a generative AI co-pilot designed to facilitate intuitive interaction with warehouse data. Trinity transforms both structured and unstructured data into actionable insights through a user-friendly chatbot interface, making data management more accessible and decision-making more informed.
+The platforms innovative approach has been recognized in the industry, with Synkrato warehouse digital twin solution winning the 2023 SupplyTech Breakthrough Award for Overall SupplyTech Innovation of the Year.
+By leveraging these advanced technologies, Synkrato empowers businesses to enhance decision-making, optimize workflows, and achieve greater operational efficiency in their warehouse operations.

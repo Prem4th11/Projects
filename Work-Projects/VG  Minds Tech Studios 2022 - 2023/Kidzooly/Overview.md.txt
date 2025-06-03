@@ -1,0 +1,8 @@
+Company: VGMinds TechStudios
+Project Name : Kidzooly - Kids Games, Rhymes , Nursery Songs.
+Role : Senior Unity|Game Developer  (Module Lead)
+Tech Stack: Unity, C#, Git, BitBucket, JIIRA, Slack ,Trello,Firebase, RevenueCat
+
+Description : Welcome to the Ultimate Kids Learning Adventure.
+Unlock Your Child's Full Potential with Fun and Educational Content!.
+Spark your Kids imagination and foster their growth with our engaging and interactive Kids Learning app! Designed for children aged 2 to 6, this app offers a delightful journey through essential early learning concepts, ensuring a strong foundation for their future. 

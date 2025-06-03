@@ -1,0 +1,7 @@
+Company: VGMinds TechStudios
+Project Name : TabbyToo - Kids Learning Games
+Role : Senior Unity|Game Developer  (Module Lead)
+Tech Stack: Unity, C#, Git, BitBucket, JIIRA, Slack ,Trello, Data Science, Firebase, RevenueCat
+
+Description : Welcome to the ultimate Kids Learning Games app! Discover a world of educational fun for your children with our exciting and engaging kids offline games.
+Whether you're on a road trip or just looking for a productive way to keep your kids entertained, our Kids Learning Games app has got you covered.

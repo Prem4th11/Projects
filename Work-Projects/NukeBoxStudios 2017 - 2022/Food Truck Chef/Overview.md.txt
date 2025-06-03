@@ -1,0 +1,17 @@
+Company: Nukebox Studios, Bangalore
+Project Name : Food Truck Chef
+Role : Junior Unity|Game Developer  
+Tech Stack: Unity, C#, Git, BitBucket, JIIRA, Slack
+
+Description : Craving a fun cooking game 2024? Unleash your inner chef with Food Truck Chef! Join Emily on a global culinary adventure, cooking up a storm from tacos and sushi to pizza and beyond.
+
+Master the kitchen: Upgrade your food truck, serve hungry customers, and become a top chef! Time management is key as you cook, serve, and manage your way to success.
+Explore the world: Discover 20 exciting locations, each with unique dishes to master. From the bustling food streets of Asia to the vibrant flavors of Mexico, there's always a new challenge to tackle.
+
+Compete and win: Battle other chefs in thrilling food competitions, climb the leaderboard, and become the ultimate cooking champion!.
+
+Key features:
+- Endless fun: Hundreds of levels, dishes, and upgrades to keep you entertained.
+- Addictive gameplay: Easy to learn, hard to master time management mechanics.
+- Stunning graphics: Immerse yourself in the vibrant world of Food Truck Chef.
+- Free to play: Enjoy the game without spending a dime!
